@@ -1,4 +1,4 @@
-!pip install segmentation-models
+# Requires: pip install segmentation-models
 
 import random
 import numpy as np
