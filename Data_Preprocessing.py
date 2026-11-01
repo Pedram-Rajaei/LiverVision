@@ -1,3 +1,7 @@
+import os
+import numpy as np
+import nibabel as nib
+
 data_dir = "/content/drive/My Drive/New_liver/Training_Batch"
 
 # Initialize a list to store the patient data.
